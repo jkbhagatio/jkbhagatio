@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Jai - a Systems/Computational Neuroscience Ph. D. student at SWC at UCL: https://www.sainsburywellcome.org/web/people/jai-bhagat  
 
 <!--
 **jkbhagatio/jkbhagatio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br>
+<br>
 
 [![Jai's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkbhagatio&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&include_all_commits=true&count_private=true)](https://github.com/jkbhagatio/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkbhagatio&langs_count=10&layout=compact&text_color=718096&bg_color=ffffff00&hide_progress=true)](https://github.com/jkbhagatio/github-readme-stats)
 
