@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-[![Jai's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkbhagatio&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&include_all_commits=true&count_private=true)](https://github.com/jkbhagatio/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkbhagatio&langs_count=10&layout=compact&text_color=718096&bg_color=ffffff00&hide_progress=true)](https://github.com/jkbhagatio/github-readme-stats)
+[![Jai's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkbhagatio&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&count_private=true&hide_rank=true)](https://github.com/jkbhagatio/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkbhagatio&langs_count=10&layout=compact&text_color=718096&bg_color=ffffff00&hide_progress=true)](https://github.com/jkbhagatio/github-readme-stats)
 
 ![3d profile](profile-3d-contrib/profile-night-rainbow.svg)
