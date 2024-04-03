@@ -1,4 +1,8 @@
-### Hi there 👋 I'm Jai - a Systems/Computational Neuroscience Ph. D. student at SWC at UCL: https://www.sainsburywellcome.org/web/people/jai-bhagat  
+### Hi there 👋 I'm Jai - a Systems/Computational Neuroscience Ph. D. student at SWC at UCL:
+
+https://jkbhagatio.io
+
+https://www.sainsburywellcome.org/web/people/jai-bhagat  
 
 <!--
 **jkbhagatio/jkbhagatio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
