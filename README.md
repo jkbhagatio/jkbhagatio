@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Jai - a Systems/Computational Neuroscience Ph. D. student at SWC at UCL:
+### Hi there 👋 I'm Jai aka jkbhagatio, I'm currently working as a Machine Learning Research Scientist at [Enigma](https://www.enigmaproject.ai/)
 
 https://jkbhagatio.io
 
