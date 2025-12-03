@@ -1,4 +1,6 @@
-### Hi there 👋 I'm Jai aka jkbhagatio, I'm currently working as a Machine Learning Research Scientist at [Enigma](https://www.enigmaproject.ai/)
+### Hi there 👋 I'm Jai aka jkbhagatio
+
+I'm currently working as a Machine Learning Research Scientist at [Enigma](https://www.enigmaproject.ai/), where we're building foundation models of the brain.
 
 https://jkbhagatio.io
 
