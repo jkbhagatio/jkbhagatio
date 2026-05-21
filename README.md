@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Jai aka jkbhagatio
 
-I'm a Founding Machine Learning Researcher at [Metamorphic](https://www.metamorphic.com/), where we're building foundation models of the brain.
+I'm a Founding Machine Learning Researcher at [Metamorphic](https://www.metamorphic.com/), where we're building multimodal brain foundation models.
 
 My personal site: https://jkbhagatio.io
 
