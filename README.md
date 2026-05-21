@@ -1,10 +1,8 @@
 ### Hi there 👋 I'm Jai aka jkbhagatio
 
-I'm currently working as a Machine Learning Research Scientist at [Enigma](https://www.enigmaproject.ai/), where we're building foundation models of the brain.
+I'm a Founding Machine Learning Researcher at [Metamorphic](https://www.metamorphic.com/), where we're building foundation models of the brain.
 
-https://jkbhagatio.io
-
-https://www.sainsburywellcome.org/web/people/jai-bhagat  
+My personal site: https://jkbhagatio.io
 
 <!--
 **jkbhagatio/jkbhagatio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
